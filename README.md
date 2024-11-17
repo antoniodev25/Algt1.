@@ -1,2 +1,2 @@
 # Mi primer new page.
-proyecto de creacion para guardan informcacion valida
+Como alumno de primer semestre de Ingeniería en Software, mi repositorio se basa en mis primeros proyectos realizados, en los que evidencio lo que he asimilado durante mi semestre. Les hablaré acerca del proyecto que he llevado a cabo de una página web que incluye un conjunto de preguntas sobre programación. Primero, estudio y programo cómo construir la página web, luego iniciamos con la elaboración de la página principal en Html denominada (inter.html). Además, utilizo la etiqueta "p" para los parrafos donde proporciono una breve información sobre mi persona.
