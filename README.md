@@ -1,2 +1,2 @@
-# Algt1.
+# Mi primer mew folder.
 proyecto de creacion para guardan informcacion valida
